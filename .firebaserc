@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pokemon-c7833": {
+      "hosting": {
+        "app": [
+          "pokemon-c7833"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pokemon-c7833"
+  }
+}

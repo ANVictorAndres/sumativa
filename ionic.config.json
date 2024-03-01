@@ -1,0 +1,7 @@
+{
+  "name": "IonicPokemonApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
